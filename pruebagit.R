@@ -4,3 +4,4 @@ sd(x1)
 usethis::create_github_token()
 
 gitcreds::gitcreds_set()
+var(x1)
